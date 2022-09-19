@@ -17,7 +17,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [compat]
 Distributions = "0.25"
-MCTS = "0.5"
+MCTS = "0.4, 0.5"
 POMDPTools = "0.1"
 POMDPs = "0.9"
 Parameters = "0.12"
